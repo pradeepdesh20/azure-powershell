@@ -21,6 +21,7 @@ using System.IO;
 
 using Tools.Common.Issues;
 using Tools.Common.Loggers;
+using StaticAnalysis.HelpAnalyzer;
 using StaticAnalysis.BreakingChangeAnalyzer;
 using StaticAnalysis.DependencyAnalyzer;
 
