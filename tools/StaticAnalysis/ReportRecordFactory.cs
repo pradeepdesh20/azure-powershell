@@ -15,6 +15,7 @@
 
 using StaticAnalysis.BreakingChangeAnalyzer;
 using StaticAnalysis.DependencyAnalyzer;
+using StaticAnalysis.HelpAnalyzer;
 
 using System;
 using System.Collections.Generic;
