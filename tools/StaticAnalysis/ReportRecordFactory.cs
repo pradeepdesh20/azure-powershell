@@ -48,6 +48,10 @@ namespace StaticAnalysis
             {
                 return new ExtraAssembly();
             }
+            if (type.Equals(typeof(HelpIssue).FullName))
+            {
+                return new HelpIssue();
+            }
 
             return null;
         }
